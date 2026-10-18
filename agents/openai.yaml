@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 桌面网络优化"
+  short_description: "用中文诊断 Ninja、ChatGPT/Codex 和 Claude 桌面端网络问题"
+  default_prompt: "请用中文诊断并修复 Ninja/Ninjia、ChatGPT/Codex 或 Claude 桌面端的网络、代理或流式连接问题；未经明确同意不要切换节点，优先保留当前节点或用户指定的台湾、日本、新加坡节点。"
